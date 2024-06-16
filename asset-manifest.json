@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/urban-glam-store/static/css/main.03a6affd.css",
-    "main.js": "/urban-glam-store/static/js/main.38abda98.js",
+    "main.js": "/urban-glam-store/static/js/main.a2b034c7.js",
     "static/js/453.b15d2c09.chunk.js": "/urban-glam-store/static/js/453.b15d2c09.chunk.js",
     "index.html": "/urban-glam-store/index.html",
     "main.03a6affd.css.map": "/urban-glam-store/static/css/main.03a6affd.css.map",
-    "main.38abda98.js.map": "/urban-glam-store/static/js/main.38abda98.js.map",
+    "main.a2b034c7.js.map": "/urban-glam-store/static/js/main.a2b034c7.js.map",
     "453.b15d2c09.chunk.js.map": "/urban-glam-store/static/js/453.b15d2c09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03a6affd.css",
-    "static/js/main.38abda98.js"
+    "static/js/main.a2b034c7.js"
   ]
 }
