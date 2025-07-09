@@ -9,7 +9,7 @@ function Home() {
         <h1 className="logo">Urban Glam</h1>
         <p className="tagline">Elegant. Handcrafted. You.</p>
         <Link className="cta-button" to="/shop">
-          Shop Now
+          Shop
         </Link>
       </header>
 
