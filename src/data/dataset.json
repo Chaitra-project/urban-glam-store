@@ -1,0 +1,74 @@
+[
+  {
+    "id": "jwl001",
+    "name": "Celestial Diamond Necklace",
+    "category": "Necklace",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=400&h=300",
+    "price": 2599.99,
+    "description": "A luxurious diamond necklace with a celestial charm and 18k white gold."
+  },
+  {
+    "id": "jwl002",
+    "name": "Emerald Cascade Necklace",
+    "category": "Necklace",
+    "image": "https://images.unsplash.com/photo-1590080877632-ecf5d3a4cbd7?auto=format&fit=crop&w=400&h=300",
+    "price": 1899.5,
+    "description": "Elegant cascading emeralds set in platinum, perfect for evening wear."
+  },
+  {
+    "id": "jwl003",
+    "name": "Golden Heart Pendant",
+    "category": "Necklace",
+    "image": "https://images.unsplash.com/photo-1635241323889-2584ef8100fc?auto=format&fit=crop&w=400&h=300",
+    "price": 799.0,
+    "description": "Classic 22k gold pendant shaped like a heart with delicate chain detail."
+  },
+  {
+    "id": "jwl004",
+    "name": "Royal Blue Sapphire Ring",
+    "category": "Ring",
+    "image": "https://images.unsplash.com/photo-1614285313261-0de084ca8f4f",
+    "price": 1450.75,
+    "description": "Striking blue sapphire centerpiece with a halo of diamonds on platinum band."
+  },
+  {
+    "id": "jwl005",
+    "name": "Vintage Rose Gold Ring",
+    "category": "Ring",
+    "image": "https://images.unsplash.com/photo-1588776814546-1e8ec30e1d0e",
+    "price": 999.99,
+    "description": "Elegant rose gold ring with vintage floral engravings and a delicate look."
+  },
+  {
+    "id": "jwl006",
+    "name": "Classic Solitaire Diamond Ring",
+    "category": "Ring",
+    "image": "https://images.unsplash.com/photo-1588776814791-1bb59f9ecb3c",
+    "price": 2100.0,
+    "description": "Timeless solitaire ring featuring a flawless diamond on a gold band."
+  },
+  {
+    "id": "jwl007",
+    "name": "Ruby Teardrop Earrings",
+    "category": "Earrings",
+    "image": "https://images.unsplash.com/photo-1635252573739-7432b4cc52d1",
+    "price": 849.49,
+    "description": "Teardrop ruby earrings set in white gold with tiny surrounding diamonds."
+  },
+  {
+    "id": "jwl008",
+    "name": "Pearl Stud Earrings",
+    "category": "Earrings",
+    "image": "https://images.unsplash.com/photo-1600185366477-b4e552f1b0e1",
+    "price": 299.99,
+    "description": "Simple and elegant natural pearl studs with 18k gold backs."
+  },
+  {
+    "id": "jwl009",
+    "name": "Boho Hoop Earrings",
+    "category": "Earrings",
+    "image": "https://images.unsplash.com/photo-1581574201100-62da1cdd9d73",
+    "price": 149.99,
+    "description": "Artistic hoop earrings with a bohemian vibe and hammered finish."
+  }
+]

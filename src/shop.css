@@ -1,0 +1,39 @@
+.shop-page {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.tab-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.tab {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #fce4ec;
+  color: #6a1b9a;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tab.active {
+  background-color: #880e4f;
+  color: white;
+}
+
+.tab:hover {
+  background-color: #f8bbd0;
+}
+
+.tab-content {
+  padding: 20px;
+  border-top: 1px solid #f8bbd0;
+}
+
+.product-grid {
+}
